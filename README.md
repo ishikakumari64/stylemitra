@@ -1,6 +1,6 @@
 # Style Mitra — Your AI-Powered Digital Wardrobe
 
-> **Your Wardrobe. Your Style. Your AI Fashion Companion. ✨**
+> **Your Wardrobe. Your Style. Your AI Fashion Companion. **
 
 Style Mitra is an AI-powered wardrobe web application designed to make everyday outfit selection easier. Users can upload images of clothing items from their personal wardrobes and receive outfit suggestions tailored to different occasions.
 
@@ -54,4 +54,4 @@ Style Mitra explores a practical use of AI in everyday life by connecting digita
 
 ---
 
-*Style Mitra — Your wardrobe, reimagined with AI. 💫*
+*Style Mitra — Your wardrobe, reimagined with AI. *
